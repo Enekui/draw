@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T14:10:19.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="2zXD17aPp7m_-xWLDWuz" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T14:50:42.137Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="c8KIBSmsYWsNey8egA_3" version="13.8.8" type="github">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Page-1">
     <mxGraphModel dx="2052" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,14 +43,14 @@
         <mxCell id="dvKJswxrTdrwjEql97Qi-24" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
           <mxGeometry x="640" y="130.45" width="82.87" height="79.55" as="geometry" />
         </mxCell>
-        <mxCell id="dvKJswxrTdrwjEql97Qi-27" value="&lt;b&gt;App code is pushed&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="54" y="1000" width="130" height="20" as="geometry" />
+        <mxCell id="dvKJswxrTdrwjEql97Qi-27" value="&lt;b&gt;App code&amp;nbsp;Committed&lt;br&gt;GitHub&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="49" y="1000" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dvKJswxrTdrwjEql97Qi-28" value="&lt;b&gt;Github Actions&lt;br&gt;Builds Docker Image&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="54" y="515" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dvKJswxrTdrwjEql97Qi-32" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="1" vertex="1">
-          <mxGeometry x="89" y="1030" width="50" height="50" as="geometry" />
+          <mxGeometry x="94" y="1040" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dvKJswxrTdrwjEql97Qi-35" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="1" vertex="1">
           <mxGeometry x="94" y="549.6" width="50" height="50" as="geometry" />
