@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T18:43:53.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="Jkh9ir0FIYNA7ZXFGGwl" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T18:47:53.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="htE14_sa91iEwfk_1kOK" version="13.8.8" type="github">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Page-1">
-    <mxGraphModel dx="2414" dy="1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2052" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,6 +148,9 @@
         </mxCell>
         <mxCell id="Xm_gO8pbss109oJjwu6V-3" value="&lt;b&gt;Image is pushed&amp;nbsp;&lt;br&gt;DO Docker Registry&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="14" y="134.25" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJUoqDn4ppStQguKVJGA-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="1520" height="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
