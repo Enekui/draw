@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T10:41:15.233Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="WY6Q6d_E8XdNAdgYyTu1" version="13.9.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-10T10:43:07.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="pRRtaTYmVl7Na5ZDvVkg" version="13.9.3" type="github" pages="2">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Delivery Process">
     <mxGraphModel dx="2052" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -390,6 +390,15 @@
         </mxCell>
         <mxCell id="KIQ9-n2e4Xi55iZ48zyB-81" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=ing;sketch=0;" vertex="1" parent="KIQ9-n2e4Xi55iZ48zyB-29">
           <mxGeometry x="415" y="10" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="KIQ9-n2e4Xi55iZ48zyB-101" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=cm;sketch=0;" vertex="1" parent="KIQ9-n2e4Xi55iZ48zyB-29">
+          <mxGeometry x="170" y="280" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="KIQ9-n2e4Xi55iZ48zyB-102" value="&lt;b&gt;Guardian&lt;br&gt;ConfigMap&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="KIQ9-n2e4Xi55iZ48zyB-29">
+          <mxGeometry x="155" y="328" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KIQ9-n2e4Xi55iZ48zyB-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KIQ9-n2e4Xi55iZ48zyB-29" source="KIQ9-n2e4Xi55iZ48zyB-38" target="KIQ9-n2e4Xi55iZ48zyB-101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KIQ9-n2e4Xi55iZ48zyB-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KIQ9-n2e4Xi55iZ48zyB-87" source="KIQ9-n2e4Xi55iZ48zyB-85" target="KIQ9-n2e4Xi55iZ48zyB-35">
           <mxGeometry relative="1" as="geometry" />
