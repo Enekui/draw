@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T19:22:06.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="RYa6NVBQ9JCXbNYhocQ-" version="13.9.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-11T19:26:43.784Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="rii7Utlb2QrJP-XlvZcT" version="13.9.3" type="github" pages="2">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Delivery Process">
     <mxGraphModel dx="2052" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -318,7 +318,7 @@
         <mxCell id="KIQ9-n2e4Xi55iZ48zyB-77" value="" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#000000;fillColor=none;" parent="KIQ9-n2e4Xi55iZ48zyB-31" vertex="1">
           <mxGeometry y="-9" width="90" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="jnV2rk73Vr8aMRw2jthH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KIQ9-n2e4Xi55iZ48zyB-29" source="KIQ9-n2e4Xi55iZ48zyB-81" target="jnV2rk73Vr8aMRw2jthH-1">
+        <mxCell id="jnV2rk73Vr8aMRw2jthH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="KIQ9-n2e4Xi55iZ48zyB-29" source="KIQ9-n2e4Xi55iZ48zyB-81" target="jnV2rk73Vr8aMRw2jthH-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KIQ9-n2e4Xi55iZ48zyB-81" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=ing;sketch=0;" parent="KIQ9-n2e4Xi55iZ48zyB-29" vertex="1">
@@ -475,6 +475,12 @@
         </mxCell>
         <mxCell id="KIQ9-n2e4Xi55iZ48zyB-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.082;exitY=0.497;exitDx=0;exitDy=0;exitPerimeter=0;" parent="rkNN7NmJvZzL46u0bGWZ-1" source="KIQ9-n2e4Xi55iZ48zyB-88" target="KIQ9-n2e4Xi55iZ48zyB-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnV2rk73Vr8aMRw2jthH-17" value="&lt;b&gt;HTTPS&lt;br&gt;SSL&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rkNN7NmJvZzL46u0bGWZ-1">
+          <mxGeometry x="865" y="110" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jnV2rk73Vr8aMRw2jthH-18" value="&lt;b&gt;https://k8s.projectguardian.eu&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rkNN7NmJvZzL46u0bGWZ-1">
+          <mxGeometry x="795" y="140" width="190" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
