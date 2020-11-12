@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T12:54:54.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="MTqdUpjXsBzZx6tWKohE" version="13.9.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-12T13:03:58.147Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="js1Y-VONuqFEtO59HWsS" version="13.9.3" type="github" pages="2">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Delivery Process">
     <mxGraphModel dx="1710" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -294,7 +294,7 @@
         <mxCell id="l_q6223Tu3FRIT1Lvfha-20" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="rkNN7NmJvZzL46u0bGWZ-1">
           <mxGeometry x="1270" y="599" width="430" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="HmpUgAnOhJPI6Wjz2-eF-0" value="" style="whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rkNN7NmJvZzL46u0bGWZ-1" vertex="1">
+        <mxCell id="HmpUgAnOhJPI6Wjz2-eF-0" value="s" style="whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rkNN7NmJvZzL46u0bGWZ-1" vertex="1">
           <mxGeometry y="310" width="1180" height="790" as="geometry" />
         </mxCell>
         <mxCell id="KIQ9-n2e4Xi55iZ48zyB-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;fillColor=#ffffff;" parent="rkNN7NmJvZzL46u0bGWZ-1" vertex="1">
@@ -616,6 +616,15 @@
         </mxCell>
         <mxCell id="KIQ9-n2e4Xi55iZ48zyB-85" value="&lt;b&gt;Dashboard&lt;br&gt;Ingress&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="JQVwMNzxXm4V5GAIsuNF-42" vertex="1">
           <mxGeometry x="400" y="65" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JQVwMNzxXm4V5GAIsuNF-55" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=none;" vertex="1" parent="rkNN7NmJvZzL46u0bGWZ-1">
+          <mxGeometry x="670" y="330" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JQVwMNzxXm4V5GAIsuNF-56" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;https://k8s.projectguardian.eu/dashboard&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;https://k8s.projectguardian.eu/rooms&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;https://k8s.projectguardian.eu/turn&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rkNN7NmJvZzL46u0bGWZ-1">
+          <mxGeometry x="685" y="345" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JQVwMNzxXm4V5GAIsuNF-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="rkNN7NmJvZzL46u0bGWZ-1" source="KIQ9-n2e4Xi55iZ48zyB-94" target="JQVwMNzxXm4V5GAIsuNF-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
