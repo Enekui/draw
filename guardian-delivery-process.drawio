@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T16:30:01.429Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="iGJqq8gGUWfwi4JMcoEP" version="13.10.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-25T16:30:52.575Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="p7CV9EqJodbgPApWISu2" version="13.10.1" type="github" pages="4">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Delivery Process">
     <mxGraphModel dx="2052" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -883,8 +883,8 @@
         <mxCell id="ywEoY_Qi-7EwS9KiFwZo-33" value="&lt;b&gt;Configuration, env vars and secrets &lt;br&gt;are injected into containers&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ywEoY_Qi-7EwS9KiFwZo-1">
           <mxGeometry x="250" y="560" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ywEoY_Qi-7EwS9KiFwZo-34" value="&lt;b&gt;Rooms migration job&lt;br&gt;is executed&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ywEoY_Qi-7EwS9KiFwZo-1">
-          <mxGeometry x="675" y="750" width="140" height="30" as="geometry" />
+        <mxCell id="ywEoY_Qi-7EwS9KiFwZo-34" value="&lt;b&gt;Database migration job&lt;br&gt;is executed&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ywEoY_Qi-7EwS9KiFwZo-1">
+          <mxGeometry x="670" y="750" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ywEoY_Qi-7EwS9KiFwZo-35" value="&lt;b&gt;Rooms migration job&lt;br&gt;is executed&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ywEoY_Qi-7EwS9KiFwZo-1">
           <mxGeometry x="935" y="750" width="140" height="30" as="geometry" />
