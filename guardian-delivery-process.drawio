@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T14:24:45.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="CXF1zF-gRpkLABBtSfN2" version="13.10.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-25T16:21:47.467Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="u9Ul2aXY0nPWkiMhlRM3" version="13.10.1" type="github" pages="3">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Delivery Process">
     <mxGraphModel dx="2052" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -644,7 +644,7 @@
         <mxCell id="uK7vdgtCgYffIbOm8w0n-0" />
         <mxCell id="uK7vdgtCgYffIbOm8w0n-1" parent="uK7vdgtCgYffIbOm8w0n-0" />
         <mxCell id="5REZti6_a45VWDDgx-rI-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;sketch=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
-          <mxGeometry width="1700" height="1100" as="geometry" />
+          <mxGeometry x="80" width="1280" height="890" as="geometry" />
         </mxCell>
         <mxCell id="5REZti6_a45VWDDgx-rI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="uK7vdgtCgYffIbOm8w0n-1" source="5REZti6_a45VWDDgx-rI-1" target="5REZti6_a45VWDDgx-rI-21">
           <mxGeometry relative="1" as="geometry">
@@ -653,7 +653,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5REZti6_a45VWDDgx-rI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
+        <mxCell id="5REZti6_a45VWDDgx-rI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
           <mxGeometry x="550" y="410" width="620" height="390" as="geometry" />
         </mxCell>
         <mxCell id="5REZti6_a45VWDDgx-rI-7" value="" style="group" vertex="1" connectable="0" parent="uK7vdgtCgYffIbOm8w0n-1">
@@ -686,14 +686,14 @@
         <mxCell id="5REZti6_a45VWDDgx-rI-16" value="&lt;b&gt;Guardian&lt;br&gt;Ingress&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
           <mxGeometry x="812" y="75" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5REZti6_a45VWDDgx-rI-28" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;sketch=0;fillColor=none;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
-          <mxGeometry x="340" y="540" width="40" height="40" as="geometry" />
+        <mxCell id="5REZti6_a45VWDDgx-rI-28" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;sketch=0;fillColor=#f8cecc;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
+          <mxGeometry x="340" y="510" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5REZti6_a45VWDDgx-rI-29" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;sketch=0;fillColor=none;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
-          <mxGeometry x="877" y="340" width="40" height="40" as="geometry" />
+        <mxCell id="5REZti6_a45VWDDgx-rI-29" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;sketch=0;fillColor=#f8cecc;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
+          <mxGeometry x="740" y="310" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5REZti6_a45VWDDgx-rI-31" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;sketch=0;fillColor=none;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
-          <mxGeometry x="890" y="140" width="40" height="40" as="geometry" />
+        <mxCell id="5REZti6_a45VWDDgx-rI-31" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;sketch=0;fillColor=#f8cecc;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
+          <mxGeometry x="930" y="105" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5REZti6_a45VWDDgx-rI-38" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="uK7vdgtCgYffIbOm8w0n-1">
           <mxGeometry x="550" y="410" width="80" height="80" as="geometry" />
@@ -713,26 +713,14 @@
         <mxCell id="5REZti6_a45VWDDgx-rI-11" value="&lt;b&gt;InitContainer:&lt;br&gt;db-migrate job&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;" vertex="1" parent="5REZti6_a45VWDDgx-rI-39">
           <mxGeometry width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="5REZti6_a45VWDDgx-rI-26" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;sketch=0;fillColor=none;" vertex="1" parent="5REZti6_a45VWDDgx-rI-39">
+        <mxCell id="5REZti6_a45VWDDgx-rI-26" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;sketch=0;fillColor=#f8cecc;" vertex="1" parent="5REZti6_a45VWDDgx-rI-39">
           <mxGeometry x="55" y="180" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5REZti6_a45VWDDgx-rI-34" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;sketch=0;fillColor=none;" vertex="1" parent="5REZti6_a45VWDDgx-rI-39">
           <mxGeometry x="50" y="10" width="50" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="5REZti6_a45VWDDgx-rI-40" value="" style="group;" vertex="1" connectable="0" parent="uK7vdgtCgYffIbOm8w0n-1">
-          <mxGeometry x="930" y="520" width="150" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="5REZti6_a45VWDDgx-rI-12" value="&lt;b&gt;Container:&lt;br&gt;Dashboard Application&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;" vertex="1" parent="5REZti6_a45VWDDgx-rI-40">
-          <mxGeometry width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="5REZti6_a45VWDDgx-rI-27" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;sketch=0;fillColor=none;" vertex="1" parent="5REZti6_a45VWDDgx-rI-40">
-          <mxGeometry x="50" y="190" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5REZti6_a45VWDDgx-rI-36" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;sketch=0;fillColor=none;" vertex="1" parent="5REZti6_a45VWDDgx-rI-40">
-          <mxGeometry x="50" y="10" width="50" height="41" as="geometry" />
-        </mxCell>
         <mxCell id="5REZti6_a45VWDDgx-rI-41" value="" style="group" vertex="1" connectable="0" parent="uK7vdgtCgYffIbOm8w0n-1">
-          <mxGeometry x="810" y="220" width="80" height="110" as="geometry" />
+          <mxGeometry x="810" y="200" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5REZti6_a45VWDDgx-rI-20" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=svc;sketch=0;" vertex="1" parent="5REZti6_a45VWDDgx-rI-41">
           <mxGeometry width="75" height="70" as="geometry" />
@@ -746,6 +734,42 @@
               <mxPoint x="190" y="605" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5REZti6_a45VWDDgx-rI-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;sketch=1;strokeColor=#000000;gradientColor=none;fillColor=none;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
+          <mxGeometry x="80" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5REZti6_a45VWDDgx-rI-46" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=ns;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
+          <mxGeometry x="107.5" y="10" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5REZti6_a45VWDDgx-rI-47" value="&lt;b&gt;Guardian&lt;br&gt;Namespace&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
+          <mxGeometry x="85" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5REZti6_a45VWDDgx-rI-63" value="&lt;b&gt;Configuration, env vars and secrets &lt;br&gt;are injectedinto containers&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
+          <mxGeometry x="250" y="560" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5REZti6_a45VWDDgx-rI-64" value="&lt;b&gt;Database migration job&lt;br&gt;is executed&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
+          <mxGeometry x="670" y="750" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5REZti6_a45VWDDgx-rI-65" value="&lt;b&gt;Database migration job&lt;br&gt;is executed&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
+          <mxGeometry x="930" y="750" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5REZti6_a45VWDDgx-rI-36" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;sketch=0;fillColor=none;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
+          <mxGeometry x="980" y="530" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="5REZti6_a45VWDDgx-rI-66" value="" style="group" vertex="1" connectable="0" parent="uK7vdgtCgYffIbOm8w0n-1">
+          <mxGeometry x="930" y="520" width="150" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5REZti6_a45VWDDgx-rI-12" value="&lt;b&gt;Container:&lt;br&gt;Dashboard Application&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;" vertex="1" parent="5REZti6_a45VWDDgx-rI-66">
+          <mxGeometry width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5REZti6_a45VWDDgx-rI-27" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;sketch=0;fillColor=#f8cecc;" vertex="1" parent="5REZti6_a45VWDDgx-rI-66">
+          <mxGeometry x="50" y="180" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5REZti6_a45VWDDgx-rI-67" value="&lt;b&gt;Dashboard container&lt;br&gt;is exposed port 80&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
+          <mxGeometry x="690" y="360" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5REZti6_a45VWDDgx-rI-68" value="&lt;b&gt;Dashboard application&lt;br&gt;is exposed via HTTPS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uK7vdgtCgYffIbOm8w0n-1">
+          <mxGeometry x="885" y="160" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
