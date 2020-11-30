@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T09:40:19.343Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="w4mHQCVwI9jWew4hHXcm" version="13.10.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-11-30T09:50:25.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="lGljpYf-Ik79rA03aPdK" version="13.10.1" type="github" pages="5">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Delivery Process">
     <mxGraphModel dx="2052" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1009,6 +1009,9 @@
         </mxCell>
         <mxCell id="UBxNmZAifyE_5-C6ky4q-10" value="&lt;b&gt;Internet&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="EwZcp03csBKgJh0RMz-r-1">
           <mxGeometry x="1599" y="310" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UBxNmZAifyE_5-C6ky4q-12" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;For Production kubernetes, backups are done daily&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For Development kubernetes, backups are done weekly&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;The process is&amp;nbsp;executed at 1:00 AM&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;The backup jobs are defined as a GH Actions workflow in Delivery-process repo.&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Backups are stored in DO Spaces bucket &quot;guardian-infra&quot;, in backups folder&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="EwZcp03csBKgJh0RMz-r-1">
+          <mxGeometry x="160" y="240" width="510" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
