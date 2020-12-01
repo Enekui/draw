@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T21:18:00.561Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="VmbcGYr5uaQUbsGR1oJO" version="13.10.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-12-01T21:20:44.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="_XMs1IDtmIQTUnqdhsla" version="13.10.1" type="github" pages="9">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Delivery Process">
     <mxGraphModel dx="2052" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1152,9 +1152,6 @@
         <mxCell id="oqju9yHlPcVqkT5xh-IO-75" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;strokeColor=#000000;fillColor=none;gradientColor=none;" parent="oqju9yHlPcVqkT5xh-IO-1" vertex="1">
           <mxGeometry x="1100" y="902" width="110" height="117.25" as="geometry" />
         </mxCell>
-        <mxCell id="oqju9yHlPcVqkT5xh-IO-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="oqju9yHlPcVqkT5xh-IO-1" source="oqju9yHlPcVqkT5xh-IO-31" target="oqju9yHlPcVqkT5xh-IO-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oqju9yHlPcVqkT5xh-IO-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oqju9yHlPcVqkT5xh-IO-1" source="oqju9yHlPcVqkT5xh-IO-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="39" as="targetPoint" />
@@ -1198,18 +1195,18 @@
           <mxGeometry x="1080" y="572" width="52.08" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oqju9yHlPcVqkT5xh-IO-20" value="&lt;b&gt;guardian-tls&lt;br&gt;certificate&lt;br&gt;&lt;/b&gt;" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.certificate;rounded=0;glass=0;sketch=0;" parent="oqju9yHlPcVqkT5xh-IO-1" vertex="1">
-          <mxGeometry x="428.75" y="567" width="62.5" height="50" as="geometry" />
+          <mxGeometry x="406.67" y="587" width="62.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oqju9yHlPcVqkT5xh-IO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="oqju9yHlPcVqkT5xh-IO-1" source="oqju9yHlPcVqkT5xh-IO-31" target="oqju9yHlPcVqkT5xh-IO-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="465" y="1002" />
+              <mxPoint x="443" y="1002" />
               <mxPoint x="245" y="1002" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oqju9yHlPcVqkT5xh-IO-31" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;sketch=1;strokeColor=#000000;fillColor=none;gradientColor=none;" parent="oqju9yHlPcVqkT5xh-IO-1" vertex="1">
-          <mxGeometry x="420" y="562" width="90" height="90" as="geometry" />
+          <mxGeometry x="397.92" y="582" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oqju9yHlPcVqkT5xh-IO-32" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;sketch=1;strokeColor=#000000;fillColor=none;gradientColor=none;" parent="oqju9yHlPcVqkT5xh-IO-1" vertex="1">
           <mxGeometry x="200" y="702" width="90" height="90" as="geometry" />
@@ -1295,14 +1292,11 @@
         <mxCell id="oqju9yHlPcVqkT5xh-IO-79" value="&lt;b&gt;Issuer&lt;br&gt;Account Key&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="oqju9yHlPcVqkT5xh-IO-1" vertex="1">
           <mxGeometry x="1410" y="972" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KnUW2BvcCfQgL-Wwjubp-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="oqju9yHlPcVqkT5xh-IO-1" vertex="1">
-          <mxGeometry x="680" y="582" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="KnUW2BvcCfQgL-Wwjubp-2" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="oqju9yHlPcVqkT5xh-IO-1" vertex="1">
           <mxGeometry x="1275" y="100" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KnUW2BvcCfQgL-Wwjubp-3" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="oqju9yHlPcVqkT5xh-IO-1" vertex="1">
-          <mxGeometry x="441.25" y="726.5" width="50" height="50" as="geometry" />
+          <mxGeometry x="419" y="726.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KnUW2BvcCfQgL-Wwjubp-4" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="oqju9yHlPcVqkT5xh-IO-1" vertex="1">
           <mxGeometry x="420" y="345" width="50" height="50" as="geometry" />
@@ -1312,6 +1306,12 @@
         </mxCell>
         <mxCell id="KnUW2BvcCfQgL-Wwjubp-8" value="&lt;ol&gt;&lt;li&gt;&lt;b&gt;The certificate is sent to Cert-Manager for validation&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cert-Manager contacts Let&#39;s Encrypt CA for DNS validation&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;The certificate is loaded into Guardian ingress resource&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;The Guardian ingress resource information is passed to ingress controller&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Nginx ingress controller exposes the Guardian application with the tls certificate&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;align=left;" parent="oqju9yHlPcVqkT5xh-IO-1" vertex="1">
           <mxGeometry x="10" y="9" width="530" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="oqju9yHlPcVqkT5xh-IO-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="oqju9yHlPcVqkT5xh-IO-1" source="oqju9yHlPcVqkT5xh-IO-31" target="oqju9yHlPcVqkT5xh-IO-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KnUW2BvcCfQgL-Wwjubp-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="oqju9yHlPcVqkT5xh-IO-1" vertex="1">
+          <mxGeometry x="640" y="603" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
