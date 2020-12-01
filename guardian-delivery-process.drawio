@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T12:59:42.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="XWdGlffKA0niY2JEKatt" version="13.10.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-12-01T12:59:55.764Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="ZtVk7XxeN32KawFbdj52" version="13.10.1" type="github" pages="9">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Delivery Process">
     <mxGraphModel dx="2052" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1525,7 +1525,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="to1RR9g1dGF_wygQL1jz-33" value="&lt;b&gt;Fluent-bit&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="to1RR9g1dGF_wygQL1jz-1">
-          <mxGeometry x="820" y="640" width="120" height="30" as="geometry" />
+          <mxGeometry x="820" y="648" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="to1RR9g1dGF_wygQL1jz-39" value="&lt;b&gt;Collect&lt;br&gt;Logs&lt;br&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/oxygen/32x32/apps/xeyes.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="to1RR9g1dGF_wygQL1jz-1">
           <mxGeometry x="818" y="704" width="32" height="32" as="geometry" />
