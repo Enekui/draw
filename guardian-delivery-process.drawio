@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T21:36:30.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="IXFszTOGIuNT4Ew9MuXp" version="13.10.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-02-02T10:16:13.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="xXPdFXbOl86-7NGeSmU7" version="14.2.7" type="github" pages="9">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Delivery Process">
-    <mxGraphModel dx="2052" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2017" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,6 +276,18 @@
         </mxCell>
         <mxCell id="QIlnkUUPpGFtl71VJMS--11" value="&lt;b&gt;Push Image&amp;nbsp;&lt;br&gt;Docker Registry&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="810" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="30BK7k58o-w2eOAdMqOq-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="469" width="40" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="30BK7k58o-w2eOAdMqOq-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-128.png;sketch=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="514.07" width="35.43" height="35.43" as="geometry" />
+        </mxCell>
+        <mxCell id="30BK7k58o-w2eOAdMqOq-3" value="&lt;b&gt;Coturn&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1495" y="555.3" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="30BK7k58o-w2eOAdMqOq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.527;entryY=1.291;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KJUoqDn4ppStQguKVJGA-38" target="30BK7k58o-w2eOAdMqOq-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
