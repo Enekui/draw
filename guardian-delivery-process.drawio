@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T10:16:13.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="xXPdFXbOl86-7NGeSmU7" version="14.2.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-02-02T10:17:11.034Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="qjsJYEwtifmSFbmJ9Zce" version="14.2.7" type="github" pages="9">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Delivery Process">
     <mxGraphModel dx="2017" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -190,6 +190,13 @@
         <mxCell id="KJUoqDn4ppStQguKVJGA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KJUoqDn4ppStQguKVJGA-24" target="KJUoqDn4ppStQguKVJGA-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="30BK7k58o-w2eOAdMqOq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.997;exitY=0.64;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KJUoqDn4ppStQguKVJGA-24" target="30BK7k58o-w2eOAdMqOq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1139" y="509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KJUoqDn4ppStQguKVJGA-24" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
           <mxGeometry x="1056.13" y="409.05" width="82.87" height="79.55" as="geometry" />
         </mxCell>
@@ -285,9 +292,6 @@
         </mxCell>
         <mxCell id="30BK7k58o-w2eOAdMqOq-3" value="&lt;b&gt;Coturn&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1495" y="555.3" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="30BK7k58o-w2eOAdMqOq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.527;entryY=1.291;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KJUoqDn4ppStQguKVJGA-38" target="30BK7k58o-w2eOAdMqOq-3">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
