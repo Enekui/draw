@@ -1,14 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T10:32:02.550Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="E5dRjIrpnAnRv2xN2IWz" version="14.2.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-02-04T13:37:40.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="40Bo86CwaQEMZWCQYzoX" version="14.2.9" type="github" pages="9">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Delivery Process">
-    <mxGraphModel dx="1674" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="1148" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="https://raw.githubusercontent.com/aquasecurity/trivy/master/imgs/logo.png" id="dvKJswxrTdrwjEql97Qi-39">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;shadow=0;sketch=1;" parent="1" vertex="1">
-            <mxGeometry width="1700" height="1100" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="KJUoqDn4ppStQguKVJGA-7" value="" style="whiteSpace=wrap;html=1;fillColor=none;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="240" width="1520" height="840" as="geometry" />
         </mxCell>
@@ -153,13 +148,13 @@
           <mxGeometry x="19" y="751" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dvKJswxrTdrwjEql97Qi-13" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
-          <mxGeometry x="27.900000000000006" y="58.64999999999999" width="102.2" height="83.8" as="geometry" />
+          <mxGeometry x="31.000000000000007" y="39.99999999999999" width="102.2" height="83.8" as="geometry" />
         </mxCell>
         <mxCell id="dvKJswxrTdrwjEql97Qi-36" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="1" vertex="1">
-          <mxGeometry x="54" y="190.3" width="50" height="50" as="geometry" />
+          <mxGeometry x="54" y="173.3" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xm_gO8pbss109oJjwu6V-3" value="&lt;b&gt;Image is pushed&amp;nbsp;&lt;br&gt;DO Docker Registry&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="14" y="151.25" width="130" height="30" as="geometry" />
+          <mxGeometry x="17.1" y="134.25" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJUoqDn4ppStQguKVJGA-8" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="930" y="240" width="750" height="450" as="geometry" />
@@ -299,10 +294,10 @@
         <mxCell id="30BK7k58o-w2eOAdMqOq-3" value="&lt;b&gt;Coturn&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1495" y="555.3" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a4FAj8Yl6YaukhoAJ5Ck-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/health-care-and-first-responders/64/police-white-male-coronavirus-128.png" vertex="1" parent="1">
+        <mxCell id="a4FAj8Yl6YaukhoAJ5Ck-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/health-care-and-first-responders/64/police-white-male-coronavirus-128.png" parent="1" vertex="1">
           <mxGeometry x="241" y="29.630000000000003" width="108" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="a4FAj8Yl6YaukhoAJ5Ck-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="a4FAj8Yl6YaukhoAJ5Ck-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry x="-51" y="39.90999999999998" as="geometry">
             <mxPoint x="140" y="83" as="sourcePoint" />
             <mxPoint x="245" y="83.20999999999995" as="targetPoint" />
@@ -312,10 +307,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a4FAj8Yl6YaukhoAJ5Ck-3" value="&lt;b&gt;Trivy Docker&lt;br&gt;Image Scan&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="a4FAj8Yl6YaukhoAJ5Ck-3" value="&lt;b&gt;Trivy Docker&lt;br&gt;Image Scan&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="251" y="134.25" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a4FAj8Yl6YaukhoAJ5Ck-4" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+        <mxCell id="a4FAj8Yl6YaukhoAJ5Ck-4" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="1" vertex="1">
           <mxGeometry x="271" y="173.3" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
