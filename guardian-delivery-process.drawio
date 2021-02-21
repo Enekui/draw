@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T18:07:14.896Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="WQxz07_5IltbBvhexliA" version="14.2.9" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-02-21T18:08:10.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="I2Ozl9S33Limsr9KWot-" version="14.2.9" type="github" pages="10">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Delivery Process">
     <mxGraphModel dx="2052" dy="1251" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1569,19 +1569,19 @@
       <root>
         <mxCell id="5JEBfM2WZjnBFOmWVv0c-0" />
         <mxCell id="5JEBfM2WZjnBFOmWVv0c-1" parent="5JEBfM2WZjnBFOmWVv0c-0" />
-        <mxCell id="5JEBfM2WZjnBFOmWVv0c-2" value="" style="whiteSpace=wrap;html=1;fillColor=none;sketch=1;" vertex="1" parent="5JEBfM2WZjnBFOmWVv0c-1">
+        <mxCell id="5JEBfM2WZjnBFOmWVv0c-2" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="5JEBfM2WZjnBFOmWVv0c-1">
           <mxGeometry x="150" y="65" width="1370" height="970" as="geometry" />
         </mxCell>
-        <mxCell id="5JEBfM2WZjnBFOmWVv0c-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="5JEBfM2WZjnBFOmWVv0c-1">
+        <mxCell id="5JEBfM2WZjnBFOmWVv0c-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;strokeColor=#000000;gradientColor=none;" vertex="1" parent="5JEBfM2WZjnBFOmWVv0c-1">
           <mxGeometry x="1130" y="560" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="fjlindKt7UZvFIflExXO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5JEBfM2WZjnBFOmWVv0c-1" source="5JEBfM2WZjnBFOmWVv0c-6" target="fjlindKt7UZvFIflExXO-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5JEBfM2WZjnBFOmWVv0c-6" value="" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="5JEBfM2WZjnBFOmWVv0c-1">
+        <mxCell id="5JEBfM2WZjnBFOmWVv0c-6" value="" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#000000;gradientColor=none;" vertex="1" parent="5JEBfM2WZjnBFOmWVv0c-1">
           <mxGeometry x="680" y="110" width="290" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="5JEBfM2WZjnBFOmWVv0c-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="5JEBfM2WZjnBFOmWVv0c-1">
+        <mxCell id="5JEBfM2WZjnBFOmWVv0c-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;" vertex="1" parent="5JEBfM2WZjnBFOmWVv0c-1">
           <mxGeometry x="230" y="550" width="330" height="330" as="geometry" />
         </mxCell>
         <mxCell id="5JEBfM2WZjnBFOmWVv0c-3" value="&lt;b&gt;k8s-dev&lt;br&gt;Cluster&lt;br&gt;&lt;/b&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;sketch=1;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="5JEBfM2WZjnBFOmWVv0c-1">
