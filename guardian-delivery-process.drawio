@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T12:11:52.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="eUWjKj_ov3GHb5PzKtH8" version="14.4.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-03-09T15:53:12.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="K37Gp3Y-aGFiUEWHSQc9" version="14.4.4" type="github" pages="12">
   <diagram id="0DuUWheaSwiv5AnK-Dnp" name="Delivery Process">
-    <mxGraphModel dx="1412" dy="895" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2106" dy="1279" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,7 +346,7 @@
           <mxGeometry x="10.5" y="5" width="85" height="81" as="geometry" />
         </mxCell>
         <mxCell id="l_q6223Tu3FRIT1Lvfha-8" value="" style="group" parent="rkNN7NmJvZzL46u0bGWZ-1" vertex="1" connectable="0">
-          <mxGeometry x="1320" y="880" width="120" height="90.60000000000002" as="geometry" />
+          <mxGeometry x="1300" y="940" width="120" height="90.60000000000002" as="geometry" />
         </mxCell>
         <mxCell id="l_q6223Tu3FRIT1Lvfha-9" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="l_q6223Tu3FRIT1Lvfha-8" vertex="1">
           <mxGeometry x="15" width="86.1" height="70.6" as="geometry" />
@@ -636,7 +636,7 @@
           <mxGeometry x="746" y="50" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y-fMEMjMUG7r5nRASlfU-0" value="" style="group" parent="rkNN7NmJvZzL46u0bGWZ-1" vertex="1" connectable="0">
-          <mxGeometry x="1490" y="950" width="80" height="96.10000000000002" as="geometry" />
+          <mxGeometry x="1550" y="980" width="80" height="96.10000000000002" as="geometry" />
         </mxCell>
         <mxCell id="y-fMEMjMUG7r5nRASlfU-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;sketch=0;" parent="y-fMEMjMUG7r5nRASlfU-0" vertex="1">
           <mxGeometry width="70" height="72.5" as="geometry" />
@@ -668,7 +668,7 @@
           <mxGeometry x="1290" y="621.7199999999999" width="72" height="106.57" as="geometry" />
         </mxCell>
         <mxCell id="SeAEgVq62XZaO32zav-h-0" value="&lt;b&gt;Spaces CDN&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.s3Bucket;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;" parent="rkNN7NmJvZzL46u0bGWZ-1" vertex="1">
-          <mxGeometry x="1454.25" y="810" width="71.14" height="73.8" as="geometry" />
+          <mxGeometry x="1424.43" y="823.25" width="71.14" height="73.8" as="geometry" />
         </mxCell>
         <mxCell id="xZfQKJoUM2lzyN9EnnR8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="rkNN7NmJvZzL46u0bGWZ-1" source="xZfQKJoUM2lzyN9EnnR8-1" target="EvK5XPAm7EaOP6Hd_Bds-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -969,7 +969,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Coturn-3478 Pods Architecture" id="jSop_eKu2mmy2XGlr01t">
-    <mxGraphModel dx="1172" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1734" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dFnfQzwLm3iwpfmMzmmu-0" />
         <mxCell id="dFnfQzwLm3iwpfmMzmmu-1" parent="dFnfQzwLm3iwpfmMzmmu-0" />
@@ -1369,7 +1369,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9d5aSoWKwqL8F9GREmmm" name="certificates_with_ingress">
-    <mxGraphModel dx="1172" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1474" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="oqju9yHlPcVqkT5xh-IO-0" />
         <mxCell id="oqju9yHlPcVqkT5xh-IO-1" parent="oqju9yHlPcVqkT5xh-IO-0" />
@@ -1557,7 +1557,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MsmttzA_YVrC5Ix-AghZ" name="certificate_with_turn">
-    <mxGraphModel dx="1172" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1474" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qPTWEmp3aG1z9K6OmJgE-0" />
         <mxCell id="qPTWEmp3aG1z9K6OmJgE-1" parent="qPTWEmp3aG1z9K6OmJgE-0" />
@@ -1806,7 +1806,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="51gnZPEp0nl6Ax95F3Af" name="vault-architecture">
-    <mxGraphModel dx="2052" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1474" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="5JEBfM2WZjnBFOmWVv0c-0" />
         <mxCell id="5JEBfM2WZjnBFOmWVv0c-1" parent="5JEBfM2WZjnBFOmWVv0c-0" />
